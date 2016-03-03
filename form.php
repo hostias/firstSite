@@ -1,8 +1,7 @@
 <?php
 
 /**
- * @author Evgeniy Popov
- * @copyright 2010
+ * @author Evge
  */
 
 
